@@ -1,3 +1,4 @@
+```gradle
 allprojects {
 		repositories {
 			...
@@ -5,7 +6,7 @@ allprojects {
 		}
 	}
   
-  
+ ```gradle
   dependencies {
 	        implementation 'com.github.sayyedasif444:testPackage:Tag'
 	}
