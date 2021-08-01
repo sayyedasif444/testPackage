@@ -5,8 +5,9 @@ allprojects {
 			maven { url 'https://jitpack.io' }
 		}
 	}
-  
- ```gradle
-  dependencies {
-	        implementation 'com.github.sayyedasif444:testPackage:Tag'
-	}
+ ```
+```gradle
+dependencies {
+	implementation 'com.github.sayyedasif444:testPackage:Tag'
+}
+```
