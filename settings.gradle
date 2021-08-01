@@ -1,0 +1,3 @@
+include ':testPackage'
+include ':app'
+rootProject.name = "testPackage"
